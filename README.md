@@ -1,6 +1,7 @@
 # loteria_push
 
-A new Flutter project.
+<img width="1917" height="1098" alt="Captura de pantalla 2026-11-23 104523" src="https://github.com/user-attachments/assets/e903a58d-cf9e-491f-88b4-5ebcbe3bab74" />
+
 
 ## Getting Started
 
