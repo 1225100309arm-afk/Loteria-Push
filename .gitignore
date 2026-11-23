@@ -1,0 +1,7 @@
+# Servidor
+server/node_modules/
+# La cuenta de servicio de Firebase JAMÁS se sube
+server/cuenta-servicio*.json
+server/*service-account*.json
+*.p8
+.env
